@@ -1,0 +1,86 @@
+/*Le Wagon🙏让我过吧*/
+
+@import url("components/responsible.css");
+
+@import url("components/id.css");
+
+@import url("components/h,p,a.css");
+
+@import url("components/class.css");
+body{
+	background-image:url(../images/parchment.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Grape Nuts', cursive;	font-size: 20px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.square{
+	border-radius: 0px
+}
+.container {
+	width: 700px;
+	margin: 10px auto
+}
+.background {
+	background-image: url(../images/street.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+	box-shadow: 0px 0px 0px rgb(0,0,0,0.5);
+	margin: 20px auto;
+	padding: 40px;
+	width: 600px;
+}
+.button {
+    background-image: url(../images/wand.png);
+    background-size: cover;
+	background-position: center;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 8px;
+	box-shadow: 5px 10px 15px rgba(0,0,0,0.5)
+}
+
+.store1{
+	background-image: url(../images/Ollivanders.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+	box-shadow: 0px 0px 0px rgb(0,0,0,0.5);
+	margin: 20px auto;
+	padding: 40px;
+	width: 650px;
+}
+
+.store2{
+	background-image: url(../images/bookstore.jpeg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+	box-shadow: 0px 0px 0px rgb(0,0,0,0.5);
+	margin: 20px auto;
+	padding: 40px;
+	width: 650px;
+}
+
+.store3{
+	background-image: url(../images/qqs.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 5px;
+	box-shadow: 0px 0px 0px rgb(0,0,0,0.5);
+	margin: 20px auto;
+	padding: 40px;
+	width: 650px;
+}
+
+
+
+

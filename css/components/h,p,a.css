@@ -1,0 +1,83 @@
+h1{
+	font-family: 'Grape Nuts', cursive;
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+	color: #7a7ef7;
+}
+h2{
+	font-family: 'Grape Nuts', cursive;
+	font-size: 50px;
+	color: #7a7ef7;
+	font-weight: bolder;
+	text-align: center;	
+}
+
+h3{
+	font-family: 'Send Flowers', cursive;
+	font-size: 50px;
+	color: #c44800;
+	font-weight: bolder;
+	text-align: center;	
+}
+
+h4{
+	font-family: 'Grape Nuts', cursive;
+	font-size: 30px;
+	color: white;
+	font-weight: bolder;
+	text-align: center;	
+}
+
+h5{
+	font-family: 'Grape Nuts', cursive;
+	font-size: 20px;
+	color: #c2c49f;
+	font-weight: bolder;
+	text-align: center;	
+}
+
+h6{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 25px;
+	font-weight: bolder;
+	color: white;
+	text-align: center;	
+}
+
+h7{
+	font-family: 'Send Flowers', cursive;
+	font-size: 50px;
+	color: #c44800;
+	font-weight: bolder;
+	text-align: center;	
+}
+
+h8{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 20px;
+	font-weight: bolder;
+	color: white;
+	text-align: none;	
+}
+
+
+
+p{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 30px;
+	font-weight: bolder;
+	color: white;
+}
+
+
+a {
+	font-size: 24px;
+	text-decoration: none;
+	text-align: center;
+	color: #c6fdbb;
+}
+a:hover {
+	color: #b62529;
+	font-weight: bolder;
+}

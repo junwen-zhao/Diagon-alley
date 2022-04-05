@@ -1,0 +1,33 @@
+@media (max-width: 1500px) {
+  .container {
+    width: 700px;
+  }
+  .background {
+  	width: 650px;
+  }
+  .store1,.store2,.store3{
+  	width:650px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+  .background {
+  	width: 400px;
+  }
+  .store1,.store2,.store3{
+  	width: 400px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 350px;
+  }
+  .background {
+  	width: 300px;
+  }
+  .store1,.store2,.store3{
+  	width: 300px;
+  }
+}
